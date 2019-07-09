@@ -11,13 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-Bhanu pratap Sweets
+Bhanu pratap 
 
 - 1
 - 2
 
-1. ghee sweets
-2. sugar free sweets
+1. GOLD
+2. SILVER
 
 **Bold** and _Italic_ and `Code` text
 
