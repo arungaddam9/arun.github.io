@@ -13,11 +13,11 @@ Syntax highlighted code block
 
 Bhanu pratap Sweets
 
-- Bulleted
-- List
+- 1
+- 2
 
-1. Numbered
-2. List
+1. ghee sweets
+2. sugar free sweets
 
 **Bold** and _Italic_ and `Code` text
 
